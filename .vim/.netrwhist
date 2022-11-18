@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/wang'
+let g:netrw_dirhist_3='/'
+let g:netrw_dirhist_2='/home'
+let g:netrw_dirhist_1='/home/wang'
+let g:netrw_dirhist_0='/home/wang/.vim'
+let g:netrw_dirhist_9='/home/wang/project/imx6ull/bsp/key_filter'
+let g:netrw_dirhist_8='/home/wang/project/imx6ull/bsp/led'
+let g:netrw_dirhist_7='/home/wang/project/I.MX6ULL/bsp/10_epit/bsp/exti'
+let g:netrw_dirhist_6='/var'
+let g:netrw_dirhist_5='/etc/systemd/system/sockets.target.wants'
